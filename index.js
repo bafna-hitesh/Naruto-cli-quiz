@@ -15,16 +15,16 @@ if(readlineSync.keyInYN(chalk.cyan('Lets Know how Much You Know NARUTO, Are You 
 var highScores = [
   {
     name: "Hitesh",
-    score: 1
+    score: 5
   },
 
   {
     name: "Akash",
-    score: 2,
+    score: 4,
   },
   {
     name: "Rushabh",
-    score: 1
+    score: 2
   },
 ]
 
